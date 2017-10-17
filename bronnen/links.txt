@@ -1,0 +1,5 @@
+Veel over spatial mapping:
+https://developer.microsoft.com/en-us/windows/mixed-reality/spatial_mapping
+
+Spatial scanning:
+https://developer.microsoft.com/en-us/windows/mixed-reality/Spatial_mapping_design.html#the_environment_scanning_experience
